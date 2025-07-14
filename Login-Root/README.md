@@ -4,10 +4,10 @@
 This microservice is part of the **Authentication-Domain** repository and is designed to handle the authentication and login process for the root user. It is built using Python and follows a microservices architecture with a focus on modularity and scalability.
 
 ## Repository Link 📁
-- [GitHub Repository](https://github.dev/Loony213/Authentication-Domain)
+- [GitHub Repository](https://github.com/GaloViturco/RootService)
 
 ## Docker Image 🐳
-- **Docker Image:** `kamartinez/login-root`
+- **Docker Image:** `galo12/login-root`
 
 ## Purpose 🎯
 This microservice facilitates user authentication for the root user, allowing secure login capabilities within the system. The service ensures that sensitive authentication details are handled securely, using industry best practices.
@@ -58,7 +58,7 @@ Login-Root/
 ## How to Deploy ⚙️
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.dev/Loony213/Authentication-Domain.git
+   git clone https://github.com/GaloViturco/RootService
    ```
 
 2. **Install Dependencies:**
@@ -70,11 +70,11 @@ Login-Root/
 3. **Docker Deployment:**
    - Build the Docker image:
      ```bash
-     docker build -t kamartinez/login-root .
+     docker build -t galo12/login-root .
      ```
    - Run the container:
      ```bash
-     docker run -p 5000:5000 kamartinez/login-root
+     docker run -p 5000:5000 galo12/login-root
      ```
 
 4. **Access the Service:**
