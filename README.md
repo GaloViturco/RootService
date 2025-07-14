@@ -5,7 +5,7 @@ Welcome to the **RootService** repository! This project contains the core servic
 
 ## Description 🔐
 
-RootService is a microservice designed for authenticating the root user into a system. This service is intended to ensure secure login capabilities and is optimized for ease of integration into larger systems. The system is powered by SQL Server, where all user credentials are securely stored.
+RootService is a microservice designed for authenticating the root user into a system. This service is intended to ensure secure login capabilities and is optimized for ease of integration into larger systems. The system is powered by SQL Server, where all user credentials are securely stored..
 
 ### Core Features ⚙️
 - **Root User Authentication:** Secure login for the root user, ensuring authorized access to the system.
